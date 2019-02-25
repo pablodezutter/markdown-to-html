@@ -1,0 +1,17 @@
+body {background-color: white;}
+h1 {color:black;
+  margin: 20px;
+  border-color: blue;
+  border-style: solid;
+border-radius: 10px;
+}
+h2 {color: black;
+margin: 40px;
+border-left: 8px solid blue
+}
+p {color: black;
+margin: 50px;
+}
+li {margin: 50px;
+}
+p {margin-right: }
